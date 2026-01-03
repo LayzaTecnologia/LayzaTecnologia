@@ -14,6 +14,6 @@ Welcome to my workspace! I am a passionate tech enthusiast currently diving deep
 
 *“Turning data into insights and code into solutions.”*
 
-<img src="https://www.comececomopedireito.com.br/blog/analise-de-dados-com-power-bi/"/>
+
 
 
